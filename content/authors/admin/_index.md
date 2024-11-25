@@ -1,78 +1,75 @@
 ---
-title: "吳健雄"
+title: "Santos-Silva, J. C."
 education:
 - area: PhD Water Resources and Environmental Engineering
   button:
     text: Read Thesis
     url: https://acervodigital.ufpr.br/xmlui/bitstream/handle/1884/81462/R%20-%20T%20-%20JESSICA%20CAROLINE%20DOS%20SANTOS%20SILVA.pdf?sequence=1&isAllowed=y
-  date_end: "2018-06-05"
-  date_start: "2022-12-21"
-  institution: Federal University of Paraná (UFPR)
+  date_end: "2022-12-21"
+  date_start: "2018-06-05"
+  institution: Federal University of Paraná (UFPR), Brazil
   summary: |
-    Thesis on _Integrated evaluation of atmospheric pollution and socioecological risks in an industrial area from Santa Catarina state_. Supervised by [Prof Ricardo H. M. Godoi](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-- area: MEng Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
-  summary: "GPA: 3.8/4.0\n\nCourses included:\n- lorem ipsum dolor sit amet, consectetur
-    adipiscing elit\n- lorem ipsum dolor sit amet, consectetur adipiscing elit\n-
-    lorem ipsum dolor sit amet, consectetur adipiscing elit\n"
-- area: BSc Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
-  summary: "GPA: 3.4/4.0\n\nCourses included:\n- lorem ipsum dolor sit amet, consectetur
-    adipiscing elit\n- lorem ipsum dolor sit amet, consectetur adipiscing elit\n-
-    lorem ipsum dolor sit amet, consectetur adipiscing elit\n"
-first_name: Shiung Wu
+    Thesis on _Integrated evaluation of atmospheric pollution and socioecological risks in an industrial area from Santa Catarina state_. Supervised by [Prof Ricardo H. M. Godoi](https://example.com). Presented papers at 5 conferences with the contributions being published in 2 Elsevier journals.
+- area: MSc in Sciences
+  date_end: "2017-08-01"
+  date_start: "2015-02-01"
+  institution: Center of Nuclear Energy in Agriculture (CENA/USP), Brazil
+  summary: |
+    Thesis on _Stocks and fluxes of carbon and nitrogen above- and belowground in fragments of the southern Brazilian Atlantic forest_. Supervised by [Prof. Antonio Martinelli](http://lattes.cnpq.br/0765261301478183).
+    - area: BSc Environmental and Sanitary Engineering
+  date_end: "2015-01-01"
+  date_start: "2009-02-01"
+  institution: Universidade da Região de Joinville (Univille)
+  summary: "Diagnosis of anthropogenic pressure on the atmosphere in the municipality of Joinville, Santa Catarina, Brazil"
+first_name: Jéssica C. S. S.
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Air Quality
+- Environmental Studies
+- Data Analytics
 languages:
-- name: English
-  percent: 100
-- name: Chinese
-  percent: 75
 - name: Portuguese
-  percent: 25
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+  percent: 100
+- name: English
+  percent: 95
+- name: Spanish
+  percent: 15
+last_name: Santos-Silva
+
 organizations:
-- name: OpenAI
-  url: https://openai.com/
+- name: Lab-Air
+  url: https://labair.ufpr.br/
 profiles:
 - icon: "at-symbol"
   label: "E-mail Me"
-  url: "mailto:your-email@example.com"
+  url: "mailto:jessica.jcss@gmail.com"
 - icon: brands/x
-  url: https://twitter.com/GetResearchDev
+  url: https://twitter.com/cssjessica
 - icon: brands/instagram
-  url: https://www.instagram.com/
+  url: https://www.instagram.com/css.jessica
 - icon: brands/github
-  url: https://github.com/gcushen
+  url: https://github.com/jessicajcss
 - icon: brands/linkedin
-  url: https://www.linkedin.com/
+  url: https://www.linkedin.com/jcss-50836839
 - icon: "academicons/google-scholar"
-  url: https://scholar.google.com/
+  url: https://scholar.google.com/citations?user=tlNACsIAAAAJ&hl=pt-BR&oi=sra
 - icon: academicons/orcid
-  url: https://orcid.org/
-role: Chief Scientist
+  url: https://orcid.org/0000-0001-9456-4234
+role: Researcher
 skills:
 - items:
   - description: ''
     icon: "code-bracket"
-    name: Python
-    percent: 80
+    name: R
+    percent: 90
   - description: ''
     icon: "chart-bar"
     name: Data Science
     percent: 100
   - description: ''
     icon: "circle-stack"
-    name: SQL
-    percent: 40
+    name: QGis and ArcGis
+    percent: 80
   name: Technical Skills
 - color: '#eeac02'
   color_border: '#f0bf23'
@@ -145,4 +142,4 @@ work:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jéssica is a Postdoctoral Researcher in Environmental Engineering (PPGEA) at the Federal University of Paraná (UFPR), Brazil, with a Ph.D. in Water Resources and Environmental Engineering from UFPR. Holds a Master's in Sciences from the Centro de Energia Nuclear na Agricultura (CENA/USP) and a Bachelor's in Environmental and Sanitary Engineering from Universidade da Região de Joinville (2014). Completed a scholarship at the Alma Mater Studiorum - Università di Bologna (Science without Borders 2012/2013), including an internship at Università degli Studi di Verona, Italy. Experienced in air, water, and soil quality projects, focusing on air pollution, environmental quality, environmental chemistry, and wastewater biological treatment.
