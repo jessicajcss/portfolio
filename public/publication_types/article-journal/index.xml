@@ -5,12 +5,20 @@
     <link>http://localhost:4321/publication_types/article-journal/</link>
       <atom:link href="http://localhost:4321/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
       <title>Article-Journal</title>
       <link>http://localhost:4321/publication_types/article-journal/</link>
     </image>
+    
+    <item>
+      <title>A fingerprint of source-specific health risk of PM2.5-bound components over a coastal industrial city</title>
+      <link>http://localhost:4321/publication/journal-article/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of antibiotic-resistant, gram-negative bacteria in sewage and bioaerosols from a wastewater treatment plant: A genotypic and phenotypic study</title>
@@ -37,14 +45,6 @@
     </item>
     
     <item>
-      <title>A fingerprint of source-specific health risk of PM2.5-bound components over a coastal industrial city</title>
-      <link>http://localhost:4321/publication/journal-article/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/journal-article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Impacts of PM2.5 exposure near cement facilities on human health and years of life lost: A case study in Brazil.</title>
       <link>http://localhost:4321/publication/journal-article---cement/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -55,7 +55,7 @@
     <item>
       <title>A new strategy for risk assessment of PM2.5-bound elements by considering the influence of wind regimes.</title>
       <link>http://localhost:4321/publication/journal-article---wind/</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publication/journal-article---wind/</guid>
       <description></description>
     </item>
