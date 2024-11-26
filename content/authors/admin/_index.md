@@ -100,7 +100,6 @@ awards:
   summary: |
     Sao Paulo School of Advanced Science on Atmospheric Aerosols: Properties, Measurements, Modeling, and Effects on Climate and Health
   url: "https://espca.fapesp.br/school/sao_paulo_school_of_advanced_science_on_atmospheric_aerosols:_properties,_measurements,_modeling,_and_effects_on_climate_and_health/87/"
-  title: Best Poster
 - awarder: FAPESP and Inter-American Institute for Global Change Research (IAI)
   date: "2016-07-31"
   icon: fapesp

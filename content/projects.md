@@ -12,7 +12,7 @@ sections:
       on over the years.
     title: Selected Projects
   design:
-    columns: 3
+    columns: 2
     fill_image: false
     view: article-grid
 title: Projects
