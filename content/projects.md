@@ -8,7 +8,7 @@ sections:
     filters:
       folders:
       - project
-    text: I enjoy making things. Here are a selection of projects that I have worked
+    text: I enjoy exploring the environmental dynamics. Here are a selection of projects that I have worked
       on over the years.
     title: Selected Projects
   design:

@@ -24,10 +24,9 @@ sections:
 - block: markdown
   content:
     subtitle: ""
-    text: "Use this area to speak to your mission. I'm a research scientist in the
-      Moonshot team at DeepMind. I blog about machine learning, deep learning, and
-      moonshots.\n\nI apply a range of qualitative and quantitative methods to comprehensively
-      investigate the role of science and technology in the economy.\n\nPlease reach
+    text: "I'm a research scientist at UFPR. 
+    I have been exploring the intersection of urban air quality, the interplay of local environmental dynamics and climate change, gaining significant expertise in assessing the human and environmental impacts of air pollutants. \n\n I apply a range of qualitative and quantitative methods to comprehensively
+    investigate the impact of land use and occupation activies on air quality and human health.\n\n I have large experience in collecting and analyzing data to support studies that can contribute to strategic environmental policies and more effective nature-based solutions.\n\nPlease reach
       out to collaborate \U0001F603"
     title: "\U0001F4DA My Research"
   design:
@@ -53,42 +52,6 @@ sections:
     title: Recent Publications
   design:
     view: citation
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
-  design:
-    columns: 1
-    view: article-grid
-  id: talks
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    page_type: post
-    subtitle: ""
-    text: ""
-    title: Recent News
-  design:
-    spacing:
-      padding:
-      - 0
-      - 0
-      - 0
-      - 0
-    view: date-title-summary
-  id: news
 - block: cta-card
   content:
     button:

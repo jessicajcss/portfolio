@@ -76,68 +76,46 @@ skills:
   items:
   - description: ''
     icon: "person-simple-walk"
-    name: Hiking
+    name: Taiji
     percent: 60
   - description: ''
-    icon: cat
-    name: Cats
+    icon: dog
+    name: Dogs
     percent: 100
   - description: ''
-    icon: camera
-    name: Photography
-    percent: 80
+    icon: book
+    name: Books and TV Shows
+    percent: 90
   name: Hobbies
 status:
   icon: ☕️
 superuser: true
 awards:
-- awarder: Coursera
-  date: "2023-11-25"
+- awarder: São Paulo Research Foundation (FAPESP)
+  date: "2019-08-21"
   icon: coursera
   summary: |
-    I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  title: Neural Networks and Deep Learning
-  url: "https://www.coursera.org/learn/neural-networks-deep-learning"
-- awarder: edX
-  date: "2023-07-01"
+    Sao Paulo School of Advanced Science on Atmospheric Aerosols: Properties, Measurements, Modeling, and Effects on Climate and Health
+  url: "https://espca.fapesp.br/school/sao_paulo_school_of_advanced_science_on_atmospheric_aerosols:_properties,_measurements,_modeling,_and_effects_on_climate_and_health/87/"
+  title: Best Poster
+- awarder: FAPESP and Inter-American Institute for Global Change Research (IAI)
+  date: "2016-07-31"
   icon: edx
-  summary: "Learned:\n- Synthesize your own blockchain solutions\n- Gain an in-depth
-    understanding of the specific mechanics of Bitcoin\n- Understand Bitcoin’s real-life
-    applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts
-    and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm\n"
-  title: Blockchain Fundamentals
-  url: "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-- awarder: datacamp
-  certificate_url: https://www.datacamp.com
-  date: "2023-01-21"
+  summary: "School of Advanced Science on nitrogen cycling, environmental sustainability and climate change."
+  url: "https://espca.fapesp.br/escola/school_of_advanced_science_on_nitrogen_cycling,_environmental_sustainability_and_climate_change/58/"
+- awarder: Univille and Government of Santa Catarina State 
+  date: "2014-02-01"
   icon: datacamp
-  summary: "Object-oriented programming (OOP) lets you specify relationships between
-    functions and the objects that they can act on, helping you manage complexity
-    in your code. This is an intermediate level course, providing an introduction
-    to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool
-    that simplifies some of the functions that you write. R6 is especially useful
-    for industry-specific analyses, working with web APIs, and building GUIs.\n"
-  title: "Object-Oriented Programming in R"
-  url: "https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r"
+  summary: "Regional Development Program"
 work:
 - company_logo: ''
-  company_name: GenCoin
-  company_url: ''
+  company_name: UFPR
+  company_url: 'www.ufpr.br'
   date_end: ''
-  date_start: "2021-01-01"
-  position: Director of Cloud Infrastructure
-  summary: "Responsibilities include:\n- lorem ipsum dolor sit amet, consectetur adipiscing
-    elit\n- lorem ipsum dolor sit amet, consectetur adipiscing elit\n- lorem ipsum
-    dolor sit amet, consectetur adipiscing elit"
-- company_logo: ''
-  company_name: X
-  company_url: ''
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  position: Backend Software Engineer
-  summary: "Responsibilities include:\n- Migrated infrastructure to a new data center\n-
-    lorem ipsum dolor sit amet, consectetur adipiscing elit\n- lorem ipsum dolor sit
-    amet, consectetur adipiscing elit\n"
+  date_start: "2023-02-01"
+  position: Postdoctoral Researcher
+  summary: "Responsibilities include: Implementation and Operation of Air Quality Monitoring Network: Manage an air quality monitoring system in a region surrounded by consolidated limestone mining and one of the world’s largest cement plants. The network spans five cities equipped with particle and gas monitors (PM2.5, PM10, CO, SO2, NO2, and O3) of varying performance and cost-effectiveness, such as PurpleAir and Thermo GM-5000. \n- Team Coordination and Sample Collection for subsequent analysis of trace elements, emerging pollutants, and cytotoxicity. \n- Data Analysis and Modeling: Integrate collected data with modeling approaches to characterize the region's air pollutant emission profile and assess associated health risks."
+
 ---
 
 ## About Me

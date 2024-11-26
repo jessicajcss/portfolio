@@ -1,52 +1,42 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The influence of specific local land-use activities (continuously redistributing elements across environments)
+  and environmental conditions (altering the chemical composition of airborne particulate matter) on the 
+  intrinsic health risk of PM2.5 exposure is sparsely reported. To fill this gap, we employed a novel 
+  integrated approach to address the influence of short-term changes in source-specific PM2.5 composition 
+  on the exposure-response risk, while controlling for weather conditions. We combine receptor-based source apportionment 
+  with conditional logistic regression in a space-time-stratified case-crossover design. 
+  The results emphasize the importance of source-specific air quality management 
+  in complex areas and our research provides an adaptable universal tool to support targeted place-based policy interventions 
+  to mitigate air pollution impacts on health.
+
 author_notes:
-- Equal contribution
+- Major contribution
 - Equal contribution
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- et al
+date: "2024-11-16T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Graphical Abstract**](https://ars.els-cdn.com/content/image/1-s2.0-S0304389424029480-ga1_lrg.jpg)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Journal of Hazardous Materials, 280*(136369)'
 publication_short: ""
 publication_types:
 - article-journal
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-11-16T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
+
 tags:
 - Source Themes
-title: An example journal article
-url_code: https://github.com/HugoBlox/hugo-blox-builder
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: "A fingerprint of source-specific health risk of PM2.5-bound components over a coastal industrial city"
+url_code: https://doi.org/10.5281/zenodo.12707699
+url_dataset: "https://doi.org/10.17632/98gg4jzbkb.1"
+url_source: "https://doi.org/10.1016/j.jhazmat.2024.136369"
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
