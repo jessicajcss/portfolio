@@ -34,17 +34,6 @@ sections:
 - block: collection
   content:
     filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Featured Publications
-  design:
-    columns: 2
-    view: article-grid
-  id: papers
-- block: collection
-  content:
-    filters:
       exclude_featured: false
       folders:
       - publication
@@ -52,6 +41,7 @@ sections:
     title: Recent Publications
   design:
     view: citation
+  id: papers
 - block: cta-card
   content:
     button:

@@ -96,19 +96,19 @@ superuser: true
 awards:
 - awarder: São Paulo Research Foundation (FAPESP)
   date: "2019-08-21"
-  icon: coursera
+  icon: fapesp
   summary: |
     Sao Paulo School of Advanced Science on Atmospheric Aerosols: Properties, Measurements, Modeling, and Effects on Climate and Health
   url: "https://espca.fapesp.br/school/sao_paulo_school_of_advanced_science_on_atmospheric_aerosols:_properties,_measurements,_modeling,_and_effects_on_climate_and_health/87/"
   title: Best Poster
 - awarder: FAPESP and Inter-American Institute for Global Change Research (IAI)
   date: "2016-07-31"
-  icon: edx
+  icon: fapesp
   summary: "School of Advanced Science on nitrogen cycling, environmental sustainability and climate change."
   url: "https://espca.fapesp.br/escola/school_of_advanced_science_on_nitrogen_cycling,_environmental_sustainability_and_climate_change/58/"
 - awarder: Univille and Government of Santa Catarina State 
   date: "2014-02-01"
-  icon: datacamp
+  icon: univille
   summary: "Regional Development Program"
 work:
 - company_logo: ''
