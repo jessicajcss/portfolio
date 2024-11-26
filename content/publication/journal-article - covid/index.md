@@ -26,7 +26,7 @@ date: "2024-01-15T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Graphical Abstract**](https://ars.els-cdn.com/content/image/1-s2.0-S0304389424029480-ga1_lrg.jpg)'
+  caption: 'Image credit: [**Fig.7 Paper**](https://link.springer.com/article/10.1007/s10653-023-01809-z/figures/5)'
   focal_point: ""
   preview_only: false
 projects: []

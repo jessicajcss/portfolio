@@ -24,7 +24,7 @@ date: "2020-10-29T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Graphical Abstract**](https://ars.els-cdn.com/content/image/1-s2.0-S0304389424029480-ga1_lrg.jpg)'
+  caption: 'Image credit: [**Evgenia.B/Shutterstock**](https://www.shutterstock.com/pt/g/evgenia%20b)'
   focal_point: ""
   preview_only: false
 projects: []

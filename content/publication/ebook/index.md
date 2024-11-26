@@ -23,7 +23,7 @@ date: "2023-10-24T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Graphical Abstract**](https://ars.els-cdn.com/content/image/1-s2.0-S0304389424029480-ga1_lrg.jpg)'
+  caption: 'Image credit: [**E-book**](https://editora.ifc.edu.br/2023/10/24/monitoramento-de-bioaerossois-em-estacao-de-tratamento-de-esgoto/)'
   focal_point: ""
   preview_only: false
 projects: []

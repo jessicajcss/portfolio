@@ -23,7 +23,7 @@ date: "2022-06-17T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Graphical Abstract**](https://ars.els-cdn.com/content/image/1-s2.0-S0304389424029480-ga1_lrg.jpg)'
+  caption: 'Image credit: [**IQAir**](https://www.iqair.com/gb/newsroom/2021-who-air-quality-guidelines)'
   focal_point: ""
   preview_only: false
 projects: []

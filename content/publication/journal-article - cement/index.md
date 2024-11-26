@@ -28,7 +28,7 @@ date: "2024-01-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Graphical Abstract**](https://ars.els-cdn.com/content/image/1-s2.0-S0304389424029480-ga1_lrg.jpg)'
+  caption: 'Image credit: [**Jornal Gazeta do Povo, 2022**]'
   focal_point: ""
   preview_only: false
 projects: []

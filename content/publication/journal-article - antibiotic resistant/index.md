@@ -21,7 +21,7 @@ date: "2024-06-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Graphical Abstract**](https://ars.els-cdn.com/content/image/1-s2.0-S0304389424029480-ga1_lrg.jpg)'
+  caption: 'Image credit: [**Graphical Abstract**](https://iwa.silverchair-cdn.com/iwa/content_public/journal/jwh/22/7/10.2166_wh.2024.352/1/jwh-d-23-00352gf01.png?Expires=1735655640&Signature=D-QMwYqmSIT90dLBAnIDpUUX68QH~T-GiNWYlrBZROgaLaPqPfGUwVDBjyev9m1yIkjsl~NyDCuZEXuc6QxbQ7x0gwh56X4rmNNkhiw0cgwRX9jBDE995q9QElMj-2LHB6HxXTpUE-jIJdRGUwBdXMgaEbza6sZMUZ4trI7V52ipxN90xCqisckzLNcoTDofUHr0ShE54UPmvuLT5Cn2ACb6iRU1GWZBEXGjhxEDPU-XTOWAmS~arIZoj0c5CbJ6qhNmlKleMW6EuFbfvOG9nEgo4kagE0wP5rZsNj4arendJABHlYetA1pr34TPs5mmaXNSfXRaN6PebPKMaeapoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)'
   focal_point: ""
   preview_only: false
 projects: []

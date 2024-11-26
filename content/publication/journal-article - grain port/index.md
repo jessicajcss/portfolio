@@ -32,7 +32,7 @@ date: "2024-04-22T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Graphical Abstract**](https://ars.els-cdn.com/content/image/1-s2.0-S0304389424029480-ga1_lrg.jpg)'
+  caption: 'Image credit: [**Portosdoparana**](https://www.portosdoparana.pr.gov.br/Noticia/Porto-de-Paranagua-recebe-maior-navio-da-historia-do-Parana-em-capacidade)'
   focal_point: ""
   preview_only: false
 projects: []
