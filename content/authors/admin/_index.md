@@ -11,12 +11,15 @@ education:
   summary: |
     Thesis on _Integrated evaluation of atmospheric pollution and socioecological risks in an industrial area from Santa Catarina state_. Supervised by [Prof Ricardo H. M. Godoi](https://example.com). Presented papers at 5 conferences with the contributions being published in 2 Elsevier journals.
 - area: MSc in Sciences
+  button:
+    text: Read Thesis
+    url: http://doi.org/10.11606/D.64.2017.tde-30112017-101614
   date_end: "2017-08-01"
   date_start: "2015-02-01"
   institution: Center of Nuclear Energy in Agriculture (CENA/USP), Brazil
   summary: |
     Thesis on _Stocks and fluxes of carbon and nitrogen above- and belowground in fragments of the southern Brazilian Atlantic forest_. Supervised by [Prof. Antonio Martinelli](http://lattes.cnpq.br/0765261301478183).
-    - area: BSc Environmental and Sanitary Engineering
+- area: BSc Environmental and Sanitary Engineering
   date_end: "2015-01-01"
   date_start: "2009-02-01"
   institution: Universidade da Região de Joinville (Univille)
