@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riscos À Saúde | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/riscos-a-saude/</link>
+      <atom:link href="http://localhost:4321/tags/riscos-a-saude/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riscos À Saúde</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Riscos À Saúde</title>
+      <link>http://localhost:4321/tags/riscos-a-saude/</link>
+    </image>
+    
+    <item>
+      <title>Qualidade do ar e riscos socioecológicos em Joinville</title>
+      <link>http://localhost:4321/project/joinville/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/joinville/</guid>
+      <description>&lt;p&gt;An air quality monitoring network of sensors in a region surrounded by consolidated
+limestone mining and one of the world’s largest cement plants. Explore the data.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
