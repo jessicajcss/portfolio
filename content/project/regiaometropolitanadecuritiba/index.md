@@ -8,7 +8,7 @@ tags:
 title: Projeto Qualidade do Ar na RMC
 ---
 
-An air quality monitoring network of sensors in a region surrounded by consolidated 
-limestone mining and one of the world’s largest cement plants. Explore the data.
+Explore the data. An air quality monitoring network of sensors in a region surrounded by consolidated 
+limestone mining and one of the world’s largest cement plants. 
 
 <!--more-->

@@ -8,7 +8,7 @@ tags:
 title: Qualidade do ar e riscos socioecológicos em Joinville
 ---
 
-We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
-in southern Brazil. Free access until January 1, 2025—don’t miss out. Enjoy!
+Free access until January 1, 2025—don’t miss out. We explored the the health risks of source-specific PM2.5 exposure over a coastal industrial city
+in southern Brazil. Enjoy!
 
 <!--more-->
