@@ -10,11 +10,31 @@
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:4321/tags/artigo/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/joinville/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/project/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/publication_types/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/publication/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/project/joinville/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/riscos-a-saude/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,11 +50,7 @@
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/project/</loc>
-    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/project/dadosqualidadedoar/</loc>
+    <loc>http://localhost:4321/project/regiaometropolitanadecuritiba/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
