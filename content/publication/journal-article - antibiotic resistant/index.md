@@ -15,8 +15,11 @@ author_notes:
 - Equal contribution
 authors:
 - Da Silva, L. V.
+- Medeiros, S. H. W.
+- Schneider, A. L. S.
 - admin
-- et al
+- Souza, A. L. F.
+- Rhoden, S. A.
 date: "2024-06-01T00:00:00Z"
 doi: ""
 featured: false

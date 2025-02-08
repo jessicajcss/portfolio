@@ -19,9 +19,14 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- Costa, G.
+- Da Costa, G.
+- Pauliquevis, T.
+- Heise, E. F. J.
+- Potgieter-Vermaak, S. P.
+- Godoi, A. F. L.
+- Yamamoto, C. I.
 - admin
-- et al
+- Godoi, R. H. M.
 date: "2024-01-15T00:00:00Z"
 doi: ""
 featured: false

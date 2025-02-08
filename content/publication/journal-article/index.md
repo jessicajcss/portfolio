@@ -14,7 +14,13 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-- et al
+- Potgieter-Vermaak, S. P.
+- Medeiros, S. H. W.
+- Da Silva, L. V.
+- Ferreira, D. V.
+- Godoi, A. F. L.
+- Yamamoto, C. I.
+- Godoi, R. H. M.
 date: "2024-11-16T00:00:00Z"
 doi: ""
 featured: false

@@ -16,8 +16,8 @@ author_notes:
 - Equal contribution
 authors:
 - Martinelli, L. A.
+- Lins, S. R. M.
 - admin
-- et al
 date: "2017-05-23T00:00:00Z"
 doi: ""
 featured: false

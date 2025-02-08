@@ -18,8 +18,16 @@ author_notes:
 - Equal contribution
 authors:
 - Tadano, Y. S.
+- Potgieter-Vermaak, S. P.
+- Kachba, Y. R.
+- Chiroli, D. M. G.
+- Casacio, L.
 - admin
-- et al
+- Moreira, C. A. B.
+- Machado, V.
+- Alves, T. A.
+- Siqueira, H.
+- Godoi, R. H. M.
 date: "2020-10-29T00:00:00Z"
 doi: ""
 featured: false

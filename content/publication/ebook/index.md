@@ -16,9 +16,10 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- Silva, L. V.
+- Da Silva, L. V.
 - admin
-- et al
+- Rhode, S. A.
+- Souza, A. L. F.
 date: "2023-10-24T00:00:00Z"
 doi: ""
 featured: false

@@ -21,9 +21,13 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- Zorzenão, P.
+- Zorzenão, P. C. S.
 - admin
-- et al
+- Moreira, C. A. B.
+- Pinto, V. M.
+- Tadano, Y. S.
+- Yamamoto, C. I.
+- Godoi, R. H. M.
 date: "2024-01-01T00:00:00Z"
 doi: ""
 featured: false

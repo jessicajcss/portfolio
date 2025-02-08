@@ -25,9 +25,18 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- Moreira, C. A.
-- admin
-- et al
+- Moreira, C. A. B.
+- Polezer, G.
+- Santos-Silva, J. C.
+- Zorzenão, P. C. S.
+- Godoi, A. F. L.
+- Huergo, L. F.
+- Yamamoto, C. I.
+- Tadano, Y. S.
+- Potgieter-Vermaak, S. P.
+- Reis, R. A.
+- Oliveira, A.
+- Godoi, R. H. M.
 date: "2024-04-22T00:00:00Z"
 doi: ""
 featured: false

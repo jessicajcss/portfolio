@@ -17,8 +17,16 @@ author_notes:
 - Equal contribution
 authors:
 - Polezer, G.
+- Potgieter-Vermaak, S. P.
+- Oliveira, A.
+- Martins, L. D.
 - admin
-- et al
+- Moreira, C. A. B.
+- Pauliquevis, T.
+- Godoi, A. F. L.
+- Tadano, Y. S.
+- Yamamoto, C. I.
+- Godoi, R. H. M.
 date: "2022-06-17T00:00:00Z"
 doi: ""
 featured: false

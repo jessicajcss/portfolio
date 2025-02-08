@@ -19,8 +19,28 @@ author_notes:
 - Equal contribution
 authors:
 - Martinelli, L. A.
-- admin
-- et al
+- Nardoto, G. B.
+- Soltangheisi, A.
+- Reis, G. R. G.
+- Abdalla-Filho, A. L.
+- Camargo, P. B.
+- Domingues, T. F.
+- Faria, D.
+- Figueira, A. M.
+- Gomes, T. F
+- Lins, S. R. M.
+- Mardegan, S. F.
+- Mariano, E.
+- Miatto, R. C.
+- Moraes, R.
+- Moreira, M. Z.
+- Oliveira, R. S.
+- Ometto, J. P. H. B.
+- Santos, F. L. S.
+- Sena-Souza, J.
+- Silva, D. M. L.
+- admin,
+- Vieira, A. S.
 date: "2020-10-29T00:00:00Z"
 doi: ""
 featured: false
