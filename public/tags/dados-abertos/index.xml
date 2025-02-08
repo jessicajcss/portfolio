@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dados Abertos | Hugo Academic CV Theme</title>
+    <title>Dados Abertos | Jessica Portfolio</title>
     <link>http://localhost:4321/tags/dados-abertos/</link>
       <atom:link href="http://localhost:4321/tags/dados-abertos/index.xml" rel="self" type="application/rss+xml" />
     <description>Dados Abertos</description>
